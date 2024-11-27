@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Maquiagem',
+    'Para que serve a base?',
+    'A base serve para tampar algumas imperfeições do rosto'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Maquiagem',
+    'Para que serve o blush?',
+    'Para dar um pouco de cor e vida ao rosto'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Maquiagem',
+    'Para que serve o Contorno',
+    'Serve para dar contorno para o rosto'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Maquiagem',
+    'Para que serve o batom?',
+    'Serve para colorir e realçar a boca'
 )
